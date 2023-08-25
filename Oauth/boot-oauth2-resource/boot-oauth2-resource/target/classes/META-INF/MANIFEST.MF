@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: USER
+Build-Jdk: 14.0.2
+Implementation-Title: boot-resource-server
+Implementation-Version: 0.0.1.SNAPSHOT
+Implementation-Vendor-Id: com.javainuse
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/boot-oauth2-re
+ source-server/
+Created-By: Maven Integration for Eclipse
+
